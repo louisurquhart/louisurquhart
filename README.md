@@ -1,6 +1,6 @@
 # Hi there, I'm Louis! 👋
 
-I'm a Computer Science student at Queen's University Belfast, and am seeking software/ai/cybersecurity placement opportunities.
+I'm a Computer Science student at Queen's University Belfast, and am seeking Software/AI/Cybersecurity placement opportunities.
 
 ## Languages + DevOps
 
