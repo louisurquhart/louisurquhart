@@ -31,9 +31,8 @@ I'm a Computer Science student at Queen's University Belfast, and am seeking sof
   A Unity game based on the classic battleships designed with an algorithmic opponent and full user interactivity creating a competitive experience.
 
 
-## GitHub Statistics
-<!-- This auto-generates a cool stats card based on your activity -->
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisurquhart&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## GitHub Statistics !-->
+<!-- [![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisurquhart&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) !-->
 
 ## Socials
 * **LinkedIn:** https://www.linkedin.com/in/louis-urquhart-a5b68b3b0/
