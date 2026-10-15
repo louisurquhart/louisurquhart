@@ -1,4 +1,4 @@
-# Hi there, I'm Louis! 👋
+# Hello, Im Louis
 
 I'm a Computer Science student at Queen's University Belfast, and am seeking Software/AI/Cybersecurity placement opportunities.
 
